@@ -6,6 +6,7 @@
 ユーザー登録、商品出品、商品購入などの機能が再現されていますが、実際の取引はできません。<br>
 ＋アプリ画像？（仮）考え中
 
+
 ## :orange_book:実装した機能
 ユーザー登録・編集機能<br>
 SNS認証による登録、ログイン機能(ローカル環境のみ)<br>
@@ -18,10 +19,12 @@ SNS認証による登録、ログイン機能(ローカル環境のみ)<br>
 capistranoによるAWS EC2への自動デプロイ<br>
 ActiveStorageを使用しAWS S3への画像アップロード
 
+
 ## :orange_book:本番環境
 URL:    http://54.248.69.170/<br>
 ID:     gundam<br>
 PASS:   0079
+
 
 ## :orange_book:使用技術(開発環境)
 使用技術画像を並べる（リンク付き）<br>
@@ -44,6 +47,7 @@ ancestry<br>
 payjp<br>
 kaminari
 
+
 ## :orange_book:Member
 開発体制<br>
 ・Slack（進捗報告やメンバー間の連絡）<br>
@@ -62,10 +66,13 @@ kaminari
 参考：https://github.com/higakikeita/freemarket_sample_60ce<br>
 枠作るので各自で編集してもらう感じかな〜と考え中
 
+
 ## :orange_book:課題や今後実装したい機能
 アンケート取るかも
 
+
 ## :orange_book:ERD
+
 
 ## :orange_book:DB設計
 
