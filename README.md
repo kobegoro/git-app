@@ -5,7 +5,7 @@
 （説明文）メルカリを参考に作成したWEBアプリケーションです。誰でも簡単に売り買いが楽しめるアプリの機能を再現しました。 ユーザー登録、商品出品、商品購入などの機能が再現されていますが、実際の取引はできません。
 ＋アプリ画像？（仮）考え中
 
-■実装した機能
+:orange_book:実装した機能
 ユーザー登録・編集機能
 SNS認証による登録、ログイン機能(ローカル環境のみ)
 商品出品・編集・削除機能
@@ -16,16 +16,13 @@ SNS認証による登録、ログイン機能(ローカル環境のみ)
 商品検索機能（あいまい検索・詳細検索）
 capistranoによるAWS EC2への自動デプロイ
 ActiveStorageを使用しAWS S3への画像アップロード
-■本番環境
+
+:orange_book:本番環境
 URL:    http://54.248.69.170/
 ID:       gundam
 PASS:  0079
 
-❌制作背景(意図)
-　⇒どんな課題や不便なことを解決するためにこのアプリを作ったのか。
-最終課題には不要かな。実装のアピールポイントは”担当箇所”の方で
-
-■使用技術(開発環境)
+:orange_book:使用技術(開発環境)
 使用技術画像を並べる（リンク付き）
 ruby               ruby on rails       MySQL           unicorn            Nginx           capistrano
 haml              sass                    jquery             github             AWS(EC2  S3)
@@ -33,7 +30,7 @@ haml              sass                    jquery             github             
 (gem)
 devise            rspec                 carrierwave     ancestry          payjp              kaminari
 
-■Member
+:orange_book:Member
 開発体制
 ・Slack（進捗報告やメンバー間の連絡）
 ・Trello（タスク管理）
@@ -51,9 +48,10 @@ devise            rspec                 carrierwave     ancestry          payjp 
 参考：https://github.com/higakikeita/freemarket_sample_60ce
 枠作るので各自で編集してもらう感じかな〜と考え中
 
-■課題や今後実装したい機能
+:orange_book:課題や今後実装したい機能
 アンケート取るかも
 
-■ERD
-■DB設計
+:orange_book:ERD
+
+:orange_book:DB設計
 
