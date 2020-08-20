@@ -1,7 +1,7 @@
 方針→アピールポイントが分かりやすくて見る気になるREADME（笑）
 
 項目のマーカーにアイコン
-■（アプリ名）フリマアプリ
+:orange_book:（アプリ名）フリマアプリ
 （説明文）メルカリを参考に作成したWEBアプリケーションです。誰でも簡単に売り買いが楽しめるアプリの機能を再現しました。 ユーザー登録、商品出品、商品購入などの機能が再現されていますが、実際の取引はできません。
 ＋アプリ画像？（仮）考え中
 
@@ -41,11 +41,11 @@ devise            rspec                 carrierwave     ancestry          payjp 
 ・スプレッドシート （開発スケジュール、各メンバーの作業時間を把握）
 
 苗字とgithubアイコン（リンク）？
-吉村　https://github.com/Satomaru178
-大澤　https://github.com/osawa4017
-高橋　https://github.com/Yuta1634
-山田　https://github.com/Fyamada1229
-寺本　https://github.com/kobegoro0930
+吉村 https://github.com/Satomaru178
+大澤 https://github.com/osawa4017
+高橋 https://github.com/Yuta1634
+山田 https://github.com/Fyamada1229
+寺本 https://github.com/kobegoro0930
 
 担当箇所（工夫したポイント）:
 参考：https://github.com/higakikeita/freemarket_sample_60ce
