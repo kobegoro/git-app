@@ -27,9 +27,9 @@
 <br>
 
 ## :orange_book:使用技術(開発環境)
-<a href=""><img src="https://kitsune.blog/wp-content/uploads/ruby-logo.png" width="120px"></a>
-ruby on rails<a href=""><img src="https://job.fellow-s.co.jp/limg/public/wsystem/wp-content/uploads/rails_lo.jpg" width="120px"></a>
-MySQL<a href=""><img src="" width="120px"></a>
+<a href=""><img src="https://kitsune.blog/wp-content/uploads/ruby-logo.png" width="120px height=50px"></a>
+<a href=""><img src="https://job.fellow-s.co.jp/limg/public/wsystem/wp-content/uploads/rails_lo.jpg" width="120px height=50px"></a><br>
+MySQL<a href=""><img src="" width="120px"></a><br>
 unicorn<br>
 Nginx<br>
 capistrano<br>
