@@ -48,18 +48,19 @@ kaminari<br>
 <br>
 
 ## :orange_book:Member
-### 開発体制（使用ツール）<br>
-・Slack（進捗報告やメンバー間の連絡）<br>
-・Trello（タスク管理）<br>
-・ZOOM（週2回のMTG）<br>
-・スプレッドシート （開発スケジュール、各メンバーの作業時間を把握）
-
-### 苗字とgithubアイコン（リンク）？<br>
+### github<br>
 吉村 https://github.com/Satomaru178<br>
 大澤 https://github.com/osawa4017<br>
 高橋 https://github.com/Yuta1634<br>
 山田 https://github.com/Fyamada1229<br>
 寺本 https://github.com/kobegoro0930<br>
+<br>
+
+### 開発体制（使用ツール）<br>
+・Slack（進捗報告やメンバー間の連絡）<br>
+・Trello（タスク管理）<br>
+・ZOOM（週2回のMTG）<br>
+・スプレッドシート （開発スケジュール、各メンバーの作業時間を把握）<br>
 <br>
 
 ### 担当箇所（工夫したポイント）:
