@@ -59,27 +59,27 @@ kaminari<br>
 #### 吉村<br>
 <a href="https://github.com/Satomaru178"><img src="https://avatars2.githubusercontent.com/u/63147677?s=400&u=892b244eb8922295babc96f11011f06b9c4eccb7&v=4" width="50px"></a><br>
 
-大澤<br>
+#### 大澤<br>
 <a href="https://github.com/osawa4017"><img src="https://avatars0.githubusercontent.com/u/64793100?s=400&v=4" width="50px"></a><br>
 
-高橋<br>
+#### 高橋<br>
 <a href="https://github.com/Yuta1634"><img src="https://avatars0.githubusercontent.com/u/63214741?s=400&v=4" width="50px"></a><br>
 
-山田<br>
+#### 山田<br>
 <a href="https://github.com/Fyamada1229"><img src="https://avatars3.githubusercontent.com/u/54790413?s=400&u=ff241ff28650e2f56fb3c27ec21ddd959ae323c2&v=4" width="50px"></a><br>
 
-寺本<br>
+#### 寺本<br>
 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
-フロントエンド<br>
+:ballot_box_with_check:フロントエンド<br>
 ・ユーザー登録＆ログイン画面<br>
 ・カテゴリページ（一覧ページ、カテゴリ別ページ）<br>
 ・TOPページ商品表示<br>
 ・お気に入りの追加（TOPページ、商品詳細ページ、マイページ）<br>
 ・README<br>
-バックエンド<br>
+:ballot_box_with_check:バックエンド<br>
 ・カテゴリ機能（Ancestry）<br>
 ・お気に入り機能(javascript)<br>
-工夫したポイント<br>
+:ballot_box_with_check:工夫したポイント<br>
 ユーザビリティーを意識し、細部にこだわって実装を行いました。<br>
 ・ユーザー登録ページのプログレスバーの設置<br>
 ・マイページのいいね一覧ページで条件分岐によるビューの表示変更<br>
