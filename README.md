@@ -23,9 +23,8 @@ ActiveStorageを使用しAWS S3への画像アップロード<br>
 ## :orange_book:本番環境
 URL:    http://54.248.69.170/<br>
 ID:     gundam<br>
-PASS:   0079
-
-
+PASS:   0079<br>
+<br>
 
 ## :orange_book:使用技術(開発環境)
 使用技術画像を並べる（リンク付き）<br>
@@ -46,9 +45,8 @@ rspec<br>
 carrierwave<br>
 ancestry<br>
 payjp<br>
-kaminari
-
-
+kaminari<br>
+<br>
 
 ## :orange_book:Member
 ### 開発体制<br>
@@ -63,21 +61,19 @@ kaminari
 高橋 https://github.com/Yuta1634<br>
 山田 https://github.com/Fyamada1229<br>
 寺本 https://github.com/kobegoro0930<br>
+<br>
 
 ### 担当箇所（工夫したポイント）:
 参考：https://github.com/higakikeita/freemarket_sample_60ce<br>
-枠作るので各自で編集してもらう感じかな〜と考え中
-
-
+枠作るので各自で編集してもらう感じかな〜と考え中<br>
+<br>
 
 ## :orange_book:課題や今後実装したい機能
-アンケート取るかも
-
-
+アンケート取るかも<br>
+<br>
 
 ## :orange_book:ERD
-
-
+<br>
 
 ## :orange_book:DB設計
 
