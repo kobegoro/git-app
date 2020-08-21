@@ -49,12 +49,11 @@ kaminari<br>
 
 ## :orange_book:Member
 ### github<br>
-吉村 https://github.com/Satomaru178<br>
-大澤 https://github.com/osawa4017<br>
-高橋 https://github.com/Yuta1634<br>
-山田 https://github.com/Fyamada1229<br>
-寺本 https://github.com/kobegoro0930<br>
-<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="30px"></a><br>
+吉村 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a>
+大澤 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a>
+高橋 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a>
+山田 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a>
+寺本 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
 <br>
 
 ### 開発体制（使用ツール）<br>
