@@ -54,7 +54,7 @@ kaminari<br>
 高橋 https://github.com/Yuta1634<br>
 山田 https://github.com/Fyamada1229<br>
 寺本 https://github.com/kobegoro0930<br>
-<img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="30px"><br>
+<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="30px"></a><br>
 <br>
 
 ### 開発体制（使用ツール）<br>
