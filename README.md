@@ -88,10 +88,6 @@ kaminari<br>
 ・カテゴリ一覧ページでアンカーリンクを設置する<br>
 <br>
 
-### 担当箇所（工夫したポイント）:
-参考：https://github.com/higakikeita/freemarket_sample_60ce<br>
-<br>
-
 ## :orange_book:課題や今後実装したい機能
 アンケート取るかも<br>
 <br>
