@@ -10,20 +10,20 @@
 ## :orange_book:実装した機能
 - ユーザー登録・編集機能<br>
 - SNS認証による登録、ログイン機能(ローカル環境のみ)<br>
-・商品出品・編集・削除機能<br>
-・商品購入機能（pay.jp）<br>
-・カテゴリ機能<br>
-・コメント機能<br>
-・いいね機能<br>
-・商品検索機能（あいまい検索・詳細検索）<br>
-・capistranoによるAWS EC2への自動デプロイ<br>
-・ActiveStorageを使用しAWS S3への画像アップロード<br>
+- 商品出品・編集・削除機能<br>
+- 商品購入機能（pay.jp）<br>
+- カテゴリ機能<br>
+- コメント機能<br>
+- いいね機能<br>
+- 商品検索機能（あいまい検索・詳細検索）<br>
+- capistranoによるAWS EC2への自動デプロイ<br>
+- ActiveStorageを使用しAWS S3への画像アップロード<br>
 <br>
 
 ## :orange_book:本番環境
-・URL:    http://54.248.69.170/<br>
-・ID:     gundam<br>
-・PASS:   0079<br>
+- URL:    http://54.248.69.170/<br>
+- ID:     gundam<br>
+- PASS:   0079<br>
 <br>
 
 ## :orange_book:使用技術(開発環境)
@@ -49,10 +49,10 @@ kaminari<br>
 
 ## 開発体制＆使用ツール<br>
 アジャイル開発。2週間ごとにスプリントを設定しました。
-・Slack（進捗報告やメンバー間の連絡）<br>
-・Trello（タスク管理）<br>
-・ZOOM（週2回のMTG）<br>
-・スプレッドシート （開発スケジュール、各メンバーの作業時間を把握）<br>
+- Slack（進捗報告やメンバー間の連絡）<br>
+- Trello（タスク管理）<br>
+- ZOOM（週2回のMTG）<br>
+- スプレッドシート （開発スケジュール、各メンバーの作業時間を把握）<br>
 <br>
 
 ## :orange_book:Member&担当
