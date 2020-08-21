@@ -27,10 +27,10 @@
 <br>
 
 ## :orange_book:使用技術(開発環境)
-<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTa7FRq-5L3TxwJm3OK8W1n15U4AyLbhk0uw&usqp=CAU" width="120px height=50px"></a>
-　<a href=""><img src="https://job.fellow-s.co.jp/limg/public/wsystem/wp-content/uploads/rails_lo.jpg" width="120px height=50px"></a>
-　<a href=""><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/oasist/20200614/20200614000533.png" width="120px height=50px"></a>
-　<a href=""><img src="https://livedoor.sp.blogimg.jp/sasata299/imgs/b/d/bdc11dd3.png" width="120px height=50px"></a>
+<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTa7FRq-5L3TxwJm3OK8W1n15U4AyLbhk0uw&usqp=CAU"　height=50px"></a>
+　<a href=""><img src="https://job.fellow-s.co.jp/limg/public/wsystem/wp-content/uploads/rails_lo.jpg" height=50px"></a>
+　<a href=""><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/oasist/20200614/20200614000533.png" height=50px"></a>
+　<a href=""><img src="https://livedoor.sp.blogimg.jp/sasata299/imgs/b/d/bdc11dd3.png" height=50px"></a>
 Nginx<a href=""><img src="" width="120px height=50px"></a>
 capistrano<a href=""><img src="" width="120px height=50px""></a>
 haml<a href=""><img src="" width="120px height=50px""></a>
