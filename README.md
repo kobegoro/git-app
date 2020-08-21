@@ -27,7 +27,7 @@
 <br>
 
 ## :orange_book:使用技術(開発環境)
-ruby<br>
+<a href=""><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fkitsune.blog%2Fwp-content%2Fuploads%2Fruby-logo.png&imgrefurl=https%3A%2F%2Fkitsune.blog%2Fbeginner-language&tbnid=foFhTG6bIltSDM&vet=12ahUKEwj-lf6AlKvrAhULBJQKHaifCbQQMygQegUIARDKAQ..i&docid=OZejrAK-dhbvkM&w=680&h=390&q=ruby%20%E7%94%BB%E5%83%8F&ved=2ahUKEwj-lf6AlKvrAhULBJQKHaifCbQQMygQegUIARDKAQ" width="120px"></a><br>
 ruby on rails<br>
 MySQL<br>
 unicorn<br>
