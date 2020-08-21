@@ -56,7 +56,7 @@ kaminari<br>
 <br>
 
 ## :orange_book:Member&担当
-吉村<br>
+#### 吉村<br>
 <a href="https://github.com/Satomaru178"><img src="https://avatars2.githubusercontent.com/u/63147677?s=400&u=892b244eb8922295babc96f11011f06b9c4eccb7&v=4" width="50px"></a><br>
 
 大澤<br>
