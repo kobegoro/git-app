@@ -47,7 +47,7 @@ payjp<br>
 kaminari<br>
 <br>
 
-## 開発体制＆使用ツール<br>
+## :orange_book:開発体制＆使用ツール<br>
 アジャイル開発。2週間ごとにスプリントを設定しました。
 - Slack（進捗報告やメンバー間の連絡）<br>
 - Trello（タスク管理）<br>
