@@ -47,25 +47,33 @@ payjp<br>
 kaminari<br>
 <br>
 
-## :orange_book:Member
-### github<br>
-吉村 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a>
-大澤 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a>
-高橋 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a>
-山田 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a>
-寺本 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
-<br>
-
-### 開発体制（使用ツール）<br>
+## 開発体制＆使用ツール<br>
+アジャイル開発。2週間ごとにスプリントを設定しました。
 ・Slack（進捗報告やメンバー間の連絡）<br>
 ・Trello（タスク管理）<br>
 ・ZOOM（週2回のMTG）<br>
 ・スプレッドシート （開発スケジュール、各メンバーの作業時間を把握）<br>
 <br>
 
+## :orange_book:Member&担当
+吉村<br>
+<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+
+大澤<br>
+<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+
+高橋<br>
+<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+
+山田<br>
+<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+
+寺本<br>
+<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+<br>
+
 ### 担当箇所（工夫したポイント）:
 参考：https://github.com/higakikeita/freemarket_sample_60ce<br>
-枠作るので各自で編集してもらう感じかな〜と考え中<br>
 <br>
 
 ## :orange_book:課題や今後実装したい機能
