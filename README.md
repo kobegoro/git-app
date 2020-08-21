@@ -8,22 +8,22 @@
 <br>
 
 ## :orange_book:実装した機能
-ユーザー登録・編集機能<br>
-SNS認証による登録、ログイン機能(ローカル環境のみ)<br>
-商品出品・編集・削除機能<br>
-商品購入機能（pay.jp）<br>
-カテゴリ機能<br>
-コメント機能<br>
-いいね機能<br>
-商品検索機能（あいまい検索・詳細検索）<br>
-capistranoによるAWS EC2への自動デプロイ<br>
-ActiveStorageを使用しAWS S3への画像アップロード<br>
+・ユーザー登録・編集機能<br>
+・SNS認証による登録、ログイン機能(ローカル環境のみ)<br>
+・商品出品・編集・削除機能<br>
+・商品購入機能（pay.jp）<br>
+・カテゴリ機能<br>
+・コメント機能<br>
+・いいね機能<br>
+・商品検索機能（あいまい検索・詳細検索）<br>
+・capistranoによるAWS EC2への自動デプロイ<br>
+・ActiveStorageを使用しAWS S3への画像アップロード<br>
 <br>
 
 ## :orange_book:本番環境
-URL:    http://54.248.69.170/<br>
-ID:     gundam<br>
-PASS:   0079<br>
+・URL:    http://54.248.69.170/<br>
+・ID:     gundam<br>
+・PASS:   0079<br>
 <br>
 
 ## :orange_book:使用技術(開発環境)
@@ -56,19 +56,19 @@ kaminari<br>
 <br>
 
 ## :orange_book:Member&担当
-吉村<br>
-<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+・吉村<br>
+<a href="https://github.com/Satomaru178"><img src="https://avatars2.githubusercontent.com/u/63147677?s=400&u=892b244eb8922295babc96f11011f06b9c4eccb7&v=4" width="50px"></a><br>
 
-大澤<br>
-<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+・大澤<br>
+<a href="https://github.com/osawa4017"><img src="https://avatars0.githubusercontent.com/u/64793100?s=400&v=4" width="50px"></a><br>
 
-高橋<br>
-<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+・高橋<br>
+<a href="https://github.com/Yuta1634"><img src="https://avatars0.githubusercontent.com/u/63214741?s=400&v=4" width="50px"></a><br>
 
-山田<br>
-<a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
+・山田<br>
+<a href="https://github.com/Fyamada1229"><img src="https://avatars3.githubusercontent.com/u/54790413?s=400&u=ff241ff28650e2f56fb3c27ec21ddd959ae323c2&v=4" width="50px"></a><br>
 
-寺本<br>
+・寺本<br>
 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
 <br>
 
