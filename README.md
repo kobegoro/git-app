@@ -1,13 +1,13 @@
 方針→アピールポイントが分かりやすくて見る気になるREADME（笑）
 
-## :orange_book:フリマアプリ
+## :orange_book: フリマアプリ
 メルカリを参考に作成したWEBアプリケーションです。<br>
 誰でも簡単に売り買いが楽しめるアプリの機能を実装しました。<br>
 ユーザー登録、商品出品、商品購入などの機能が再現されていますが、実際の取引はできません。<br>
 ＋アプリ画像？（仮）考え中<br>
 <br>
 
-## :orange_book:実装した機能
+## :orange_book: 実装した機能
 - ユーザー登録・編集機能<br>
 - SNS認証による登録、ログイン機能(ローカル環境のみ)<br>
 - 商品出品・編集・削除機能<br>
@@ -20,13 +20,13 @@
 - ActiveStorageを使用しAWS S3への画像アップロード<br>
 <br>
 
-## :orange_book:本番環境
+## :orange_book: 本番環境
 - URL:    http://54.248.69.170/<br>
 - ID:     gundam<br>
 - PASS:   0079<br>
 <br>
 
-## :orange_book:使用技術(開発環境)
+## :orange_book: 使用技術(開発環境)
 <a href=""><img src="https://i1.wp.com/qs.nndo.jp/wp-content/uploads/2017/06/ruby.png?fit=393%2C346" height="50px"></a>
 　<a href=""><img src="https://job.fellow-s.co.jp/limg/public/wsystem/wp-content/uploads/rails_lo.jpg" height="50px"></a>
 　<a href=""><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/oasist/20200614/20200614000533.png" height="50px"></a>
@@ -47,7 +47,7 @@ payjp<a href=""><img src="" height="50px"></a>
 kaminari<a href=""><img src="" height="50px"></a>
 <br>
 
-## :orange_book:開発体制＆使用ツール<br>
+## :orange_book: 開発体制＆使用ツール<br>
 アジャイル開発。2週間ごとにスプリントを設定しました。
 - Slack（進捗報告やメンバー間の連絡）<br>
 - Trello（タスク管理）<br>
@@ -55,7 +55,7 @@ kaminari<a href=""><img src="" height="50px"></a>
 - スプレッドシート （開発スケジュール、各メンバーの作業時間を把握）<br>
 <br>
 
-## :orange_book:Member（Github-link）&担当
+## :orange_book: Member（Github-link）&担当
 #### <a href="https://github.com/Satomaru178">吉村</a><br>
 <a href="https://github.com/Satomaru178"><img src="https://avatars2.githubusercontent.com/u/63147677?s=400&u=892b244eb8922295babc96f11011f06b9c4eccb7&v=4" width="50px"></a><br>
 
@@ -88,12 +88,12 @@ kaminari<a href=""><img src="" height="50px"></a>
 ・カテゴリ一覧ページでアンカーリンクを設置する<br>
 <br>
 
-## :orange_book:課題や今後実装したい機能
+## :orange_book: 課題や今後実装したい機能
 アンケート取るかも<br>
 <br>
 
-## :orange_book:ERD
+## :orange_book: ERD
 <br>
 
-## :orange_book:DB設計
+## :orange_book: DB設計
 
