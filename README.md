@@ -27,14 +27,14 @@
 <br>
 
 ## :orange_book: 使用技術(開発環境)
-<a href=""><img src="https://i1.wp.com/qs.nndo.jp/wp-content/uploads/2017/06/ruby.png?fit=393%2C346" height="50px"></a>
-　<a href=""><img src="https://job.fellow-s.co.jp/limg/public/wsystem/wp-content/uploads/rails_lo.jpg" height="50px"></a>
-　<a href=""><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/oasist/20200614/20200614000533.png" height="50px"></a>
-　<a href=""><img src="https://livedoor.sp.blogimg.jp/sasata299/imgs/b/d/bdc11dd3.png" height="50px"></a>
-Nginx<a href=""><img src="https://www.nginx.co.jp/wp-content/uploads/2020/07/NGINX-Plus_product-page-hero.png" height="50px"></a>
-capistrano<a href=""><img src="" height="50px"></a>
-haml<a href=""><img src="" height="50px"></a>
-sass<a href=""><img src="" height="50px"></a>
+<a href="https://www.ruby-lang.org/ja/"><img src="https://i1.wp.com/qs.nndo.jp/wp-content/uploads/2017/06/ruby.png?fit=393%2C346" height="50px"></a>
+　<a href="https://railsguides.jp/"><img src="https://job.fellow-s.co.jp/limg/public/wsystem/wp-content/uploads/rails_lo.jpg" height="50px"></a>
+　<a href="https://www.mysql.com/jp/"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/oasist/20200614/20200614000533.png" height="50px"></a>
+　<a href="https://unicorn.bogomips.org/"><img src="https://livedoor.sp.blogimg.jp/sasata299/imgs/b/d/bdc11dd3.png" height="50px"></a>
+　<a href="https://www.nginx.co.jp/"><img src="https://www.nginx.co.jp/wp-content/uploads/2020/07/NGINX-Plus_product-page-hero.png" height="50px"></a>
+　<a href="https://github.com/capistrano/capistrano"><img src="https://qiita-image-store.s3.amazonaws.com/0/91664/e5028d02-245b-a742-07b1-d961ba113d80.png" height="50px"></a>
+　<a href="https://haml.info/"><img src="https://haml.info/images/haml.png" height="50px"></a>
+　<a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50px"></a>
 jquery<a href=""><img src="" height="50px"></a>
 github<a href=""><img src="" height="50px"></a>
 AWS(EC2・S3)<a href=""><img src="" height="50px"></a>
@@ -45,6 +45,7 @@ carrierwave<a href=""><img src="" height="50px"></a>
 ancestry<a href=""><img src="" height="50px"></a>
 payjp<a href=""><img src="" height="50px"></a>
 kaminari<a href=""><img src="" height="50px"></a>
+<br>
 <br>
 
 ## :orange_book: 開発体制＆使用ツール<br>
@@ -91,9 +92,3 @@ kaminari<a href=""><img src="" height="50px"></a>
 ## :orange_book: 課題や今後実装したい機能
 アンケート取るかも<br>
 <br>
-
-## :orange_book: ERD
-<br>
-
-## :orange_book: DB設計
-
