@@ -34,7 +34,8 @@
 　<a href="https://www.nginx.co.jp/"><img src="https://i2.wp.com/tadtadya.com/wp-content/uploads/2017/08/nginx-min-edit.png?fit=626%2C329&ssl=1" height="50px"></a>
 　<a href="https://github.com/capistrano/capistrano"><img src="https://capistranorb.com/assets/images/CapistranoLogo.png" height="50px"></a>
 　<a href="https://haml.info/"><img src="https://haml.info/images/haml.png" height="50px"></a>
-　<a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50px"></a>
+　<a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50px"></a><br>
+ <br>
 　<a href="https://jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" height="30px"></a>
 　<a href="https://github.co.jp/"><img src="https://i.pinimg.com/originals/3c/d5/67/3cd5679f54dc60811383649f9f6ea37d.png" height="50px"></a>
 　<a href="https://aws.amazon.com/jp/"><img src="https://www.skyarch.net/blog/wp-content/uploads/2014/11/Non-Service_Specific_copy_AWS_Cloud.png" height="50px"></a><br>
@@ -52,16 +53,16 @@
 #### <a href="https://github.com/Satomaru178">吉村</a><br>
 <a href="https://github.com/Satomaru178"><img src="https://avatars2.githubusercontent.com/u/63147677?s=400&u=892b244eb8922295babc96f11011f06b9c4eccb7&v=4" width="50px"></a><br>
 
-#### <a href="https://github.com/osawa4017">大澤</a><br>
+### <a href="https://github.com/osawa4017">大澤</a><br>
 <a href="https://github.com/osawa4017"><img src="https://avatars0.githubusercontent.com/u/64793100?s=400&v=4" width="50px"></a><br>
 
-#### <a href="https://github.com/Yuta1634">高橋</a><br>
+### <a href="https://github.com/Yuta1634">高橋</a><br>
 <a href="https://github.com/Yuta1634"><img src="https://avatars0.githubusercontent.com/u/63214741?s=400&v=4" width="50px"></a><br>
 
-#### <a href="https://github.com/Fyamada1229">山田</a><br>
+### <a href="https://github.com/Fyamada1229">山田</a><br>
 <a href="https://github.com/Fyamada1229"><img src="https://avatars3.githubusercontent.com/u/54790413?s=400&u=ff241ff28650e2f56fb3c27ec21ddd959ae323c2&v=4" width="50px"></a><br>
 
-#### <a href="https://github.com/kobegoro0930">寺本</a><br>
+### <a href="https://github.com/kobegoro0930">寺本</a><br>
 <a href="https://github.com/kobegoro0930"><img src="https://avatars3.githubusercontent.com/u/62911575?s=460&v=4" width="50px"></a><br>
 **フロントエンド**<br>
 ・ユーザー登録＆ログイン画面<br>
