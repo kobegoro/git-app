@@ -31,8 +31,8 @@
 　<a href="https://railsguides.jp/"><img src="https://job.fellow-s.co.jp/limg/public/wsystem/wp-content/uploads/rails_lo.jpg" height="50px"></a>
 　<a href="https://www.mysql.com/jp/"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/oasist/20200614/20200614000533.png" height="50px"></a>
 　<a href="https://unicorn.bogomips.org/"><img src="https://livedoor.sp.blogimg.jp/sasata299/imgs/b/d/bdc11dd3.png" height="50px"></a>
-　<a href="https://www.nginx.co.jp/"><img src="https://www.nginx.co.jp/wp-content/uploads/2020/07/NGINX-Plus_product-page-hero.png" height="50px"></a>
-　<a href="https://github.com/capistrano/capistrano"><img src="https://qiita-image-store.s3.amazonaws.com/0/91664/e5028d02-245b-a742-07b1-d961ba113d80.png" height="50px"></a>
+　<a href="https://www.nginx.co.jp/"><img src="https://i2.wp.com/tadtadya.com/wp-content/uploads/2017/08/nginx-min-edit.png?fit=626%2C329&ssl=1" height="50px"></a>
+　<a href="https://github.com/capistrano/capistrano"><img src="https://capistranorb.com/assets/images/CapistranoLogo.png" height="50px"></a>
 　<a href="https://haml.info/"><img src="https://haml.info/images/haml.png" height="50px"></a>
 　<a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50px"></a>
 　<a href="https://jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" height="30px"></a>
