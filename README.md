@@ -35,17 +35,9 @@
 　<a href="https://github.com/capistrano/capistrano"><img src="https://qiita-image-store.s3.amazonaws.com/0/91664/e5028d02-245b-a742-07b1-d961ba113d80.png" height="50px"></a>
 　<a href="https://haml.info/"><img src="https://haml.info/images/haml.png" height="50px"></a>
 　<a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50px"></a>
-　<a href="https://jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" height="50px"></a>
+　<a href="https://jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" height="30px"></a>
 　<a href="https://github.co.jp/"><img src="https://i.pinimg.com/originals/3c/d5/67/3cd5679f54dc60811383649f9f6ea37d.png" height="50px"></a>
-　<a href="https://aws.amazon.com/jp/"><img src="https://www.skyarch.net/blog/wp-content/uploads/2014/11/Non-Service_Specific_copy_AWS_Cloud.png" height="50px"></a>
-
-devise<a href=""><img src="" height="50px"></a>
-rspec<a href=""><img src="" height="50px"></a>
-carrierwave<a href=""><img src="" height="50px"></a>
-ancestry<a href=""><img src="" height="50px"></a>
-payjp<a href=""><img src="" height="50px"></a>
-kaminari<a href=""><img src="" height="50px"></a>
-<br>
+　<a href="https://aws.amazon.com/jp/"><img src="https://www.skyarch.net/blog/wp-content/uploads/2014/11/Non-Service_Specific_copy_AWS_Cloud.png" height="50px"></a><br>
 <br>
 
 ## :orange_book: 開発体制＆使用ツール<br>
