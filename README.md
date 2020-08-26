@@ -4,7 +4,7 @@
 メルカリを参考に作成したWEBアプリケーションです。<br>
 誰でも簡単に売り買いが楽しめるアプリの機能を実装しました。<br>
 ユーザー登録、商品出品、商品購入などの機能が再現されていますが、実際の取引はできません。<br>
-＋アプリ画像？（仮）考え中<br>
+<img width="751" alt="スクリーンショット 2020-08-27 0 05 26" src="https://user-images.githubusercontent.com/62911575/91321120-42188e80-e7f9-11ea-85bd-3a9fb9142363.png"><br>
 <br>
 
 ## :orange_book: 実装した機能
@@ -50,7 +50,7 @@
 <br>
 
 ## :orange_book: Member（Github-link）&担当
-#### <a href="https://github.com/Satomaru178">吉村</a><br>
+### <a href="https://github.com/Satomaru178">吉村</a><br>
 <a href="https://github.com/Satomaru178"><img src="https://avatars2.githubusercontent.com/u/63147677?s=400&u=892b244eb8922295babc96f11011f06b9c4eccb7&v=4" width="50px"></a><br>
 
 ### <a href="https://github.com/osawa4017">大澤</a><br>
