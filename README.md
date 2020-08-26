@@ -1,10 +1,9 @@
-方針→アピールポイントが分かりやすくて見る気になるREADME（笑）
-
 ## :orange_book: フリマアプリ
 メルカリを参考に作成したWEBアプリケーションです。<br>
 誰でも簡単に売り買いが楽しめるアプリの機能を実装しました。<br>
 ユーザー登録、商品出品、商品購入などの機能が再現されていますが、実際の取引はできません。<br>
-<img width="751" alt="スクリーンショット 2020-08-27 0 05 26" src="https://user-images.githubusercontent.com/62911575/91321120-42188e80-e7f9-11ea-85bd-3a9fb9142363.png"><br>
+<br>
+<img width="1089" alt="スクリーンショット 2020-08-27 0 09 50" src="https://user-images.githubusercontent.com/62911575/91321525-ac313380-e7f9-11ea-936a-ebce2c4f9d24.png"><br>
 <br>
 
 ## :orange_book: 実装した機能
